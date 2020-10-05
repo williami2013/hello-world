@@ -1,3 +1,3 @@
 # hello-world
-This is my ffirst project.  
+This is my first project.  
 I am here!
